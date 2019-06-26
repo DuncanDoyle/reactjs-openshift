@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Template
 metadata:
-  name: ${APPLICATION_NAME}
+  name: react-web-app
   annotations:
     iconClass: icon-jboss
     tags: nodejs, react, web app
